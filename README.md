@@ -45,8 +45,6 @@ In addition to these core pillars, we provide valuable insights and resources in
 
 Uncover the secrets of generating groundbreaking ideas. Learn from role models and gain insights into their creative processes.
 
-#### Role Models
-
 #### Tools
 
 #### More
@@ -55,19 +53,21 @@ Uncover the secrets of generating groundbreaking ideas. Learn from role models a
 
 Understand your target market and connect with the right audience. Explore the tools and techniques that can help you effectively engage with your users.
 
-#### Role Models
-
 #### Tools
 
 #### Communities
+
+#### Newsletters
+
+##### Get Inspired
+
+https://transcend.substack.com/
 
 #### More
 
 ### 3️⃣ Monetization
 
 Discover various strategies to monetize your AI ventures. Delve into different business models, learn from successful role models, and leverage powerful tools.
-
-#### Role Models
 
 #### Tools
 
@@ -78,8 +78,6 @@ Discover various strategies to monetize your AI ventures. Delve into different b
 ### 4️⃣ Scaling
 
 Take your venture to new heights with effective scaling techniques. Gain inspiration from role models who have successfully scaled their AI projects and explore valuable tools for growth.
-
-#### Role Models
 
 #### Tools
 
@@ -94,8 +92,6 @@ Take your venture to new heights with effective scaling techniques. Gain inspira
 ### 5️⃣ Maintaining
 
 Learn how to sustain and nurture your ventures for long-term success. Discover the best practices, role models, and tools for maintaining the quality and relevance of your AI projects.
-
-#### Role Models
 
 #### Tools
 
