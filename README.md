@@ -81,6 +81,10 @@ Take your venture to new heights with effective scaling techniques. Gain inspira
 
 #### Tools
 
+#### SEO
+
+- [All about keywords](https://www.seoforjournalism.com/p/keywords-101-for-news-seo?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
+
 #### Incubators
 
 ##### International
