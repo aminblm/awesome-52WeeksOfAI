@@ -111,7 +111,6 @@ Learn how to sustain and nurture your ventures for long-term success. Discover t
 - [LinkedIn Engagement Assisstant](https://github.com/aminblm/linkedin-engagement-assistant), by [Amin Boulouma](https://twitter.com/aminblm)
 
 # <a name="press"></a>📰 In the Press
-> Click on each image to see the article
 
 <a href="#"><img src="https://logos-download.com/wp-content/uploads/2016/05/Fortune_logo_black_bg.png" width="200"/></a>
 <a href="#"><img src="https://th.bing.com/th/id/R.de0c99a89b810a05ce8b279131ac2402?rik=u6wy2iGdttFB6A&riu=http%3a%2f%2fknowtechie.com%2fwp-content%2fuploads%2f2014%2f09%2fmashable-logo-1024x204.png&ehk=0Te8NC%2f%2b8kga3VUS8LZZJ94NjuelzMFUefTCCJ2tbYw%3d&risl=&pid=ImgRaw&r=0" width="200"/></a>
