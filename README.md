@@ -31,7 +31,7 @@ Don't forget to:
 
 👉 Follow me on Twitter [@aminblm](https://twitter.com/aminblm)
 
-📚 [Learn More about the #52WeeksOfAIChallenge](https://github.com/aminblm/52WeeksOfAI-Challenge):
+📚 [Learn More about the #52WeeksOfAIChallenge](https://github.com/aminblm/52WeeksOfAI-Challenge)
 
 Immerse yourself in the details of the challenge. Understand its purpose, goals, and how you can participate. Join us on this transformative journey!
 
