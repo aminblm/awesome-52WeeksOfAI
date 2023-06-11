@@ -1,4 +1,24 @@
-# awesome-52WeeksOfAI
+<p align="center"><h1>🧠 Awesome #52WeeksOfAI Challenge</h1></p>
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
+
+Welcome to the "Awesome #52WeeksOfAI Challenge" repository! This is a collection of resources to help you get started to bootstrap and spinoff your AI-assisted ventures, startups, products and services for the [#52WeeksOfAI](https://transcendai.substack.com/p/52-weeks-of-ai-challenge-building) Challenge.
+
+
+The [#52WeeksOfAI]([https://chat.openai.com/chat](https://transcendai.substack.com/p/52-weeks-of-ai-challenge-building)) Challenge is a challenge launched by [TranscendAI](https://transcendai.substack.com/) that has for goal to help streamline productpreneurs to launch their AI ventures. By providing them with the adequate support, it helps the participants in the challenge scale their ventures and achieve faster their results.
+
+In this repository, you will find a variety of resources that can be used to help you launch one or multiple AI Ventures. We encourage you to [add your own venture](https://github.com/aminblm/awesome-52WeeksOfAI/edit/main/README.md) to the list, and to use the provided resources to generate new ventures as well.
+
+To get started, simply clone this repository and use the resources in the README.md file as input for your processes. You can also use the ventures in this file as inspiration for creating your own.
+
+We hope you find these prompts useful and have fun building your AI or AI-assisted venture!
+
+**[View on GitHub]([https://github.com/f/awesome-chatgpt-prompts](https://github.com/aminblm/awesome-52WeeksOfAI))**
+
+### Want to join the community?
+
+- Join the newsletter [TranscendAI](https://transcendai.substack.com/) and stay on top of the race and what's happening with the challenge.
+- Join the Discord server [TranscendAI](https://discord.gg/NTCGVXtN) to chat further with the community.
 
 Discover a comprehensive list of all the incredible ventures launched during the #52WeeksOfAI Challenge. Explore and get inspired by the innovative projects created by our community.
 
@@ -74,8 +94,9 @@ Learn how to sustain and nurture your ventures for long-term success. Discover t
 
 🚀 Be part of the AI revolution and explore Awesome-52WeeksOfAI! Witness the power of community-driven innovation and let your own ideas take flight. #52WeeksOfAI #AI #Ventures
 
-## AI Ventures
+## AI Assisted Ventures
 
+- [Python Programming: A Comprehensive Guide to Software Development with Real-World Application](https://www.amazon.de/Python-Programming-Comprehensive-Development-Application/dp/B0BW2G3W2R/ref=mp_s_a_1_4?crid=163YKO03YRSCY&keywords=python%20programming%20amin&qid=1678361020&sprefix=python%20programming%20amin%2Caps%2C127&sr=8-4&language=en_GB&currency=EUR&fbclid=PAAaaBuGg7qcAtci_OmdyZYUp3FWXCoEujMYY), by [Amin Boulouma](https://twitter.com/aminblm)
 - [PromptBroker](https://linktr.ee/promptbroker), by [Amin Boulouma](https://twitter.com/aminblm)
 - [LinkedIn Application Bot](https://github.com/aminblm/linkedin-application-bot), by [Amin Boulouma](https://twitter.com/aminblm)
 - [LinkedIn Engagement Assisstant](https://github.com/aminblm/linkedin-engagement-assistant), by [Amin Boulouma](https://twitter.com/aminblm)
