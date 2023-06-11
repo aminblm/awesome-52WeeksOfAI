@@ -19,8 +19,17 @@ We hope you find these prompts useful and have fun building your AI or AI-assist
 
 - Join the newsletter [TranscendAI](https://transcendai.substack.com/) and stay on top of the race and what's happening with the challenge.
 - Join the Discord server [TranscendAI](https://discord.gg/NTCGVXtN) to chat further with the community.
+- [Submit your venture](https://docs.google.com/forms/d/e/1FAIpQLSeD9rFoEpTmx-IgaCGc9xNhBFHMmB3MaO2sEf4jeteO2sTdJQ/viewform?usp=sf_link) to get all the perks and stay in the loop
 
 Discover a comprehensive list of all the incredible ventures launched during the #52WeeksOfAI Challenge. Explore and get inspired by the innovative projects created by our community.
+
+Don't forget to:
+
+⭐ Give this repo a star so it become the one-stop-shop for HustleGPT!
+
+🔖 Bookmark this page to check in an everyone's progress and stay updated on the newest resources ! 
+
+👉 Follow me on Twitter [@aminblm](https://twitter.com/aminblm)
 
 📚 [Learn More about the #52WeeksOfAIChallenge](https://github.com/aminblm/52WeeksOfAI-Challenge):
 
