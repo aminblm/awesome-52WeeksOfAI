@@ -109,3 +109,28 @@ Learn how to sustain and nurture your ventures for long-term success. Discover t
 - [PromptBroker](https://linktr.ee/promptbroker), by [Amin Boulouma](https://twitter.com/aminblm)
 - [LinkedIn Application Bot](https://github.com/aminblm/linkedin-application-bot), by [Amin Boulouma](https://twitter.com/aminblm)
 - [LinkedIn Engagement Assisstant](https://github.com/aminblm/linkedin-engagement-assistant), by [Amin Boulouma](https://twitter.com/aminblm)
+
+# <a name="press"></a>📰 In the Press
+> Click on each image to see the article
+
+<a href="#"><img src="https://logos-download.com/wp-content/uploads/2016/05/Fortune_logo_black_bg.png" width="200"/></a>
+<a href="#"><img src="https://th.bing.com/th/id/R.de0c99a89b810a05ce8b279131ac2402?rik=u6wy2iGdttFB6A&riu=http%3a%2f%2fknowtechie.com%2fwp-content%2fuploads%2f2014%2f09%2fmashable-logo-1024x204.png&ehk=0Te8NC%2f%2b8kga3VUS8LZZJ94NjuelzMFUefTCCJ2tbYw%3d&risl=&pid=ImgRaw&r=0" width="200"/></a>
+<a href="#"><img src="https://th.bing.com/th/id/R.68b0495bd14a0f4d4b3d80a4d671964b?rik=vzzMLqpdwgZy2w&riu=http%3a%2f%2fwww.talktothepress.co.uk%2fwp-content%2fuploads%2f2015%2f05%2fmirror-logo.png&ehk=t1NkLgUpxE%2b9LJUWOerjQ81mInQIjr5%2bwTrPIg%2bpdJg%3d&risl=&pid=ImgRaw&r=0" width="200"/></a>
+<br>
+<a href="#"><img src="https://fiverr-res.cloudinary.com/t_delivery_thumb,q_auto,f_auto/deliveries/52074437/original/creative-logo-design_ws_1471283896.jpg" width="200"/></a>
+<a href="#"><img src="https://cereusfinancial.com/wp-content/uploads/2020/08/Yahoo-Finance.png" width="200"/></a>
+<a href="#"><img src="https://images.squarespace-cdn.com/content/v1/5c795838840b1645c313486b/1551458084005-88748JPCGY8NNNOQ1TQO/ke17ZwdGBToddI8pDm48kEEIqQdm9BveNflYrBmgLscUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYwL8IeDg6_3B-BRuF4nNrNcQkVuAT7tdErd0wQFEGFSnKf989G565wP-hlb4QN2XPRbQy757K-AC5bHwWKFa8mR5LHyKwBXajiqsv2rce3p_A/Business+Insider+Logo.png" width="200"/></a>
+<br>
+<a href="#"><img src="https://www.thearcticinstitute.org/wp-content/uploads/2017/12/Futurism_logo.png?x62767" width="200"/></a>
+<a href="#"><img src="https://th.bing.com/th/id/R.1c405d2b4ab37cdbbce245d55ef66dcd?rik=NZz8shvdGQiXSQ&riu=http%3a%2f%2fwww.leader.co.za%2fleadership%2flogos%2flogo_entrepreneur_01e6.png&ehk=yad95qLLWsHvY2JT7X2cCVorxujCHVU6VbC92Auh%2frs%3d&risl=&pid=ImgRaw&r=0" width="200"/></a>
+
+[Twitter MegaThread](https://twitter.com/aminblm/status/1664526401888813057?s=20)
+<br>
+<br>
+# <a name="hype"></a>🔥 Follow the Hype
+
+🚀 Submit your venture to be added to the official [@52WeeksOfAI Discord Community](https://discord.gg/NTCGVXtN)
+
+🐦 Follow the [Newsletter](https://transcendai.substack.com/), an ever-changing collection of all the folks participating in the challenge
+
+☀️ The hashtag [#52WeeksOfAI](https://twitter.com/search?q=%40aminblm%20%2352WeeksOfAI&src=typed_query) in Twitter to stay updated on the latest news.
