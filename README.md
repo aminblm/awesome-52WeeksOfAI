@@ -64,7 +64,8 @@ Understand your target market and connect with the right audience. Explore the t
 
 ##### Get Inspired
 
-https://transcend.substack.com/
+- [TranscendAI Newsletter](https://transcend.substack.com/)
+- [The 52 Weeks Of AI Newsletter](https://transcend.substack.com/)
 
 #### More
 
