@@ -4,6 +4,9 @@
 
 TL;DR: 52 * $$$ * 😴
 
+![_AI Ventures  Community  Workshops  Spaces  Podcasts  Masterclasses  Conferences](https://github.com/aminblm/awesome-52WeeksOfAI/assets/25132838/ecb2a0b6-67eb-4898-9c07-b760e3ccef98)
+
+
 Welcome to the "Awesome #52WeeksOfAI Challenge" repository! This is a collection of resources to help you get started to bootstrap and spinoff your AI-assisted ventures, startups, products and services for the [#52WeeksOfAI](https://transcendai.substack.com/p/52-weeks-of-ai-challenge-building) Challenge.
 
 
