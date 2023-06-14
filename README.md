@@ -95,11 +95,18 @@ Take your venture to new heights with effective scaling techniques. Gain inspira
 ##### Prompts
 
 ```
-Use the information about [Project] to write the tasks and issues for the repository of the project. For each task of the list, kindly:
+Use the information about [Project] to write the user stories for the repository of the project. For each task of the list, kindly:
 
-1. rewrite the task title
-2. Write a task description 
-3. make a checklist of 5 subtasks using each task from the task list "- [ ] {substasks}":
+1. Write the user story title
+2. Write the user story description 
+3. User role
+4. Goal
+5. Action
+6. Acceptance Criteria
+7. Priority
+6. Dependencies
+7. make a checklist of 5 subtasks using each task from the task list "- [ ] {substasks}":
+8. Notes
 
 Information about the project{{
 
