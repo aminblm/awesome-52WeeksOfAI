@@ -124,7 +124,7 @@ Tasks {{
 }}
 ```
 
-> Example outputs: [LinkedIn Application Boy](https://github.com/aminblm/linkedin-application-bot/issues)
+> Example outputs: [LinkedIn Application Bot Issues](https://github.com/aminblm/linkedin-application-bot/issues)
 
 
 #### Marketing 
