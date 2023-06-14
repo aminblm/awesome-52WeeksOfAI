@@ -90,6 +90,33 @@ Take your venture to new heights with effective scaling techniques. Gain inspira
 
 #### Tools
 
+#### Management
+
+##### Prompts
+
+```
+Use the information about [Project] to write the tasks and issues for the repository [Project]. For each task of the list, kindly:
+
+1. rewrite the task title
+2. Write a task description 
+3. make a checklist of 5 subtasks using each task from the task list "- [ ] {substasks}":
+
+Information about [Project] {{
+
+}}
+
+Information about the Tasks structure {{
+* {Task priority: S-A1-C3}, T: {task starting with the verb}, {Project}, {deadline}
+* A: Big rocks
+* B: Small rocks
+* C: Sand
+}}
+
+Tasks {{
+
+}}
+```
+
 #### Marketing 
 
 ##### Landing Pages
