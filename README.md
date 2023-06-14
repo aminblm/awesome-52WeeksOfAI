@@ -2,6 +2,8 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 
+TL;DR: 52 * $$$ * 😴
+
 Welcome to the "Awesome #52WeeksOfAI Challenge" repository! This is a collection of resources to help you get started to bootstrap and spinoff your AI-assisted ventures, startups, products and services for the [#52WeeksOfAI](https://transcendai.substack.com/p/52-weeks-of-ai-challenge-building) Challenge.
 
 
