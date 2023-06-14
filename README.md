@@ -108,7 +108,7 @@ Use the information about [Project] to write the user stories for the repository
 7. make a checklist of 5 subtasks using each task from the task list "- [ ] {substasks}":
 8. Notes
 
-Information about the project{{
+Information about the project {{
 
 }}
 
